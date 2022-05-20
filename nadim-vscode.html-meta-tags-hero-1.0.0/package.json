@@ -1,0 +1,64 @@
+{
+	"name": "html-meta-tags-hero",
+	"displayName": "html meta tags hero",
+	"description": "Snippets for the Complete List of HTML Meta Tags, Make Your Website Ranked #1",
+	"publisher": "nadim-vscode",
+	"icon": "icon.png",
+	"author": {
+		"name": "Nadim Al Abdou",
+		"url": "https://nalabdou.com"
+	},
+	"homepage": "https://github.com/nalabdou/html-meta-tags-hero/blob/master/README.md",
+	"license": "SEE LICENSE IN LICENSE",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nalabdou/html-meta-tags-hero"
+	},
+	"bugs": "https://github.com/nalabdou/html-meta-tags-hero/issues",
+	"categories": [
+		"Snippets",
+		"Language Packs",
+		"Programming Languages",
+		"Extension Packs",
+		"Other"
+	],
+	"keywords": [
+		"meta",
+		"html meta tags",
+		"meta tags",
+		"html",
+		"seo tags",
+		"facebook tags",
+		"google tags"
+	],
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.49.0"
+	},
+	"contributes": {
+		"snippets": [
+			{
+				"language": "html",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "twig",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "php",
+				"path": "./snippets/snippets.code-snippets"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "82d5f7cb-36f3-473d-a189-728576ac2ac6",
+		"publisherId": "23c27a52-6613-4bda-8b0d-d09fa109d4ed",
+		"publisherDisplayName": "Nadim Al Abdou",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"preRelease": false,
+		"installedTimestamp": 1653024269588
+	}
+}
